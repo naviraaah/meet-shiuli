@@ -6,10 +6,6 @@
 
 *San Francisco & Palo Alto, California*
 
----
-
-### *Creating next-gen, AI-native experiences that blend creativity with intelligence*
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiuli-chakravorty)
 
 ---
@@ -43,6 +39,10 @@
 *From print to digital ecosystems*
 
 </div>
+
+---
+
+### *Exploring AI-native systems where I turn ideas into intelligent interfaces. Prototyping the future, building fast and learning faster.*
 
 ---
 
