@@ -54,15 +54,24 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)
+![Base44](https://img.shields.io/badge/Base44-6c5ce7?style=flat-square&logo=base44&logoColor=white)
+![Whimsical](https://img.shields.io/badge/Whimsical-FF6B6B?style=flat-square&logo=whimsical&logoColor=white)
+![Paraflow](https://img.shields.io/badge/Paraflow-8b5cf6?style=flat-square&logo=paraflow&logoColor=white)
+![Typeless](https://img.shields.io/badge/Typeless-4a5568?style=flat-square&logo=typeless&logoColor=white)
 
 ### **Development & AI**
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logo=cursor&logoColor=white)
+![Warp](https://img.shields.io/badge/Warp-000000?style=flat-square&logo=warp&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-667881?style=flat-square&logo=replit&logoColor=white)
+
+### **Project Management**
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat-square&logo=asana&logoColor=white)
 
 ### **Creative AI**
 ![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=flat-square&logo=midjourney&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-667881?style=flat-square&logo=replit&logoColor=white)
 
 </div>
 
